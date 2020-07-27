@@ -1,2 +1,1 @@
-# Meus_Projetos
-Projetos criados
+para fins de aprendizado
